@@ -1262,6 +1262,14 @@ select {
     padding: 30px 15px;
   }
 }
+
+.img-thumbnail {
+  background-color: transparent!important;
+  border: 0px!important;
+}
+.doc-section {
+  text-align: left!important;
+}
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
 /* Large devices (large desktops, 1200px and up) */
